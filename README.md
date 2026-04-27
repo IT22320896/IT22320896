@@ -30,7 +30,6 @@ education : BSc Software Engineering — SLIIT  |  CGPA 3.64  |  Dean's List
 <br/>
 
 - 💻 &nbsp; Enjoy building things end-to-end — from **backend APIs and databases** to **web and mobile interfaces**
-- 🚖 &nbsp; **Director @ Zyro Technologies** — shipping a production ride-hailing product to App Store & Google Play
 - ⚡ &nbsp; Worked on large-scale production systems · 40+ APIs · WebSockets · Redis · AWS · AI integrations
 - 🔧 &nbsp; Love clean architecture, real-time systems, and solving problems that actually matter
 
@@ -112,7 +111,7 @@ education : BSc Software Engineering — SLIIT  |  CGPA 3.64  |  Dean's List
 
 <div align="center">
 
-*"Shipping real products, not just tutorials."*
+*"Shipping real products."*
 
 <br/><br/>
 
